@@ -6,5 +6,5 @@ Authors :
 Thibault FERLAT DE GOYON DE SAINT LOYAL,
 William SOUKAI,
 Noé SALES,
-Dylan ANGELO,
+Dylan UTRELA,
 PACCAPELO Auguste.
